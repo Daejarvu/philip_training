@@ -1,5 +1,8 @@
 # philip_training
-This is a training with Philip
+Training with Philip
 
 
 ##### Training with Philip
+
+ I have to understand all the process 
+
